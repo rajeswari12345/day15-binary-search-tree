@@ -1,0 +1,5 @@
+C:\Users\mani1\source\repos\day 15 binary seach tree\day15 binary serach uc3\obj\Debug\net6.0\day15 binary serach uc3.csproj.AssemblyReference.cache
+C:\Users\mani1\source\repos\day 15 binary seach tree\day15 binary serach uc3\obj\Debug\net6.0\day15 binary serach uc3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mani1\source\repos\day 15 binary seach tree\day15 binary serach uc3\obj\Debug\net6.0\day15 binary serach uc3.AssemblyInfoInputs.cache
+C:\Users\mani1\source\repos\day 15 binary seach tree\day15 binary serach uc3\obj\Debug\net6.0\day15 binary serach uc3.AssemblyInfo.cs
+C:\Users\mani1\source\repos\day 15 binary seach tree\day15 binary serach uc3\obj\Debug\net6.0\day15 binary serach uc3.csproj.CoreCompileInputs.cache
